@@ -6,9 +6,6 @@
 2. Track age, regional, job diversity, turnover rate, promotions, and more.
 3. Gain insights into gender diversity across different company dimensions
 
-## KPI's Metrics
-![KPIs 1](https://github.com/DataVizExpert-Sham/HR-Gender-Diversity-KPIs-in-Power-BI/assets/151017676/54257bbc-d140-4ffa-9e14-73fe987a30a2)
-
 ## HR Diversity Dashboard
 ![HR Diversity Dashborad](https://github.com/DataVizExpert-Sham/HR-Gender-Diversity-KPIs-in-Power-BI/assets/151017676/a8a45572-c11c-4e86-a327-8aa63d00ddca)
 
